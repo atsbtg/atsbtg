@@ -1,0 +1,16 @@
+{
+  "name": "atsbtg",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "โปรทุนน้อย pg ฝาก20รับ100 วอเลท รวมค่าย",
+  "keywords": [
+    "โปรทุนน้อย",
+    "โปรทุนน้อย pg" ,
+    "โปรทุนน้อย20รับ100"
+  ],
+  "repository": "https://github.com/atsbtg/atsbtg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
